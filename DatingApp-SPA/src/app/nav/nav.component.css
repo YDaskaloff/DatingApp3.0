@@ -5,3 +5,8 @@
 .navbar {
     padding: 8px;
 }
+
+
+.navbar .dropdown-menu a:hover {    
+    color: #fff !important;
+}

@@ -10,3 +10,9 @@
 .navbar .dropdown-menu a:hover {    
     color: #fff !important;
 }
+
+img {
+    max-height: 40px;
+    border: 2px solid white;
+    display: inline;
+}
